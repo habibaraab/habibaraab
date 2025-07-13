@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=I'm+Habiba+Rajab+Nassar;Full+Stack+Developer;I%E2%80%99m+currently+learning+Spring+Boot;Connect%3Ahabibaragab324%40gmail.com)](https://git.io/typing-svg)
 ---
 
-### 🚀 Quick Links
-[![Portfolio](https://img.shields.io/badge/Portfolio-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://portfolio.tobie-developer.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobie-rathbun20bb4/)
-[![Games](https://img.shields.io/badge/🎮Games-4B0082?style=for-the-badge)](https://tobie-developer.com/)
+### 🚀 Quick Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, Typecript  
+- 🛠️ Backend: Java, Spring Boot, Nodejs
+- 🗃️ Databases: MySQL, Postgres, MongoDB 
 
 
 </div>
