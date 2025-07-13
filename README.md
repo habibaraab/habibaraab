@@ -5,13 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=I'm+Habiba+Rajab+Nassar;Full+Stack+Developer;I%E2%80%99m+currently+learning+Spring+Boot;Connect%3Ahabibaragab324%40gmail.com)](https://git.io/typing-svg)
 ---
 
+
+</div>
+
 ### 🚀 Quick Stack
 - 🌐 Frontend: HTML, CSS, JavaScript, Typecript  
 - 🛠️ Backend: Java, Spring Boot, Nodejs
 - 🗃️ Databases: MySQL, Postgres, MongoDB 
 
-
-</div>
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
