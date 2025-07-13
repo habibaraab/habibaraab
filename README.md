@@ -16,7 +16,11 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-![habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibaraab&show_icons=true&theme=radical)(https://github-readme-stats.vercel.app/api?username=habibaraab&show_icons=true)
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=habibaraab&show_icons=true&theme=radical" 
+    alt="Top Languages" 
+    height="170" 
+    />
 </div>
 
 
