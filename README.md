@@ -16,11 +16,7 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tobie-Rathbun&layout=compact&theme=midnight-purple&title_color=FFD700" 
-    alt="Top Languages" 
-    height="170" 
-    />
+  [![Habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibaraab)](https://github.com/habibaraab/github-readme-stats)
 </div>
 
 
