@@ -16,7 +16,8 @@
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
-![habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibaraab&show_icons=true&theme=radical)</div>
+![habiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibaraab&show_icons=true&theme=radical)
+</div>
 
 
 
