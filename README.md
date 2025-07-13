@@ -21,6 +21,8 @@
     alt="Top Languages" 
     height="170" 
     />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibaraab&layout=compact&theme=radical" alt="Top Languages" />
+
 </div>
 
 
@@ -32,8 +34,6 @@
 <div align="center">
   <a href="https://github.com/habibaraab/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=habibaraab&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title_color=FFD700" alt="GitHub Habiba" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibaraab&layout=compact&theme=radical" alt="Top Languages" />
-
   </a>
 </div>
 
