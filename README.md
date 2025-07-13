@@ -2,7 +2,7 @@
   
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🐸 Welcome to Habiba's GitHub <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">🐸 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&width=435&lines=Full+Stack+Developer;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Spring+%2C+Spring+Boot;%F0%9F%93%AB+How+to+reach+me+habibaragab324%40gmail.comgmail.com)](https://git.io/typing-svg)
 ---
 
 ### 🚀 Quick Links
