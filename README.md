@@ -49,8 +49,23 @@
 
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/reem-sakr-8161ba1a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reem sakr" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/amigooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amigooo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reem_sakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reem_sakr" height="30" width="40" /></a>
+</p>
+
+
 
 ### 💫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/reem-sakr-8161ba1a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reem sakr" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/amigooo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amigooo" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/reem_sakr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reem_sakr" height="30" width="40" /></a>
+</p>
+
+
 <div align="center">
 <p>Hit me with a follow! I'll follow back 😊</p>
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Bottom Image" />
