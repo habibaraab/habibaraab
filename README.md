@@ -31,7 +31,7 @@
 <h2>🏆 Achievements</h2>
 <div align="center">
   <a href="https://github.com/habibaraab/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Tobie-Rathbun&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title_color=FFD700" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=habibaraab&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15&title_color=FFD700" alt="GitHub Habiba" />
   </a>
 </div>
 
