@@ -9,7 +9,7 @@
 </div>
 
 ### 🚀 Quick Stack
-- 🌐 Frontend: HTML, CSS, JavaScript, Typecript  
+- 🌐 Frontend: HTML, CSS, JavaScript, Typescript  
 - 🛠️ Backend: Java, Spring Boot, Nodejs
 - 🗃️ Databases: MySQL, PostgreSQL, MongoDB 
 
