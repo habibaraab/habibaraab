@@ -10,7 +10,7 @@
 
 ### 🚀 Quick Stack
 - 🌐 Frontend: HTML, CSS, JavaScript, Typescript  
-- 🛠️ Backend: Java, Spring Boot, Nodejs, Python
+- 🛠️ Backend: Java, Spring Boot, Nodejs, Python, Django
 - 🗃️ Databases: MySQL, PostgreSQL, MongoDB 
 
 
