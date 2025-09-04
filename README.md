@@ -53,7 +53,7 @@
 
 
 ### 💫 Let's Connect!
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15awWxbk1jPxkFsWt8xpu2iSkufe-Fd92/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kSXxqGMGE2jcyO78iXnphJcNuxkzq5Ao/view?usp=sharing)
 <p align="left">
 <a href="https://www.linkedin.com/in/habiba-rajab-b0a570273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Try_again." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
